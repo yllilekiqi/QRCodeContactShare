@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Gjenero_Kodin"
+        android:icon="@drawable/qr_code"
+        android:title="@string/Gjenero_QrKodin" />
+
+    <item
+        android:id="@+id/Skano_Kodin"
+        android:icon="@drawable/scan"
+        android:title="@string/Skano_QrKodin" />
+    <item
+        android:id="@+id/Shfaq_Kontaktet_Regjistruara"
+        android:icon="@drawable/image"
+        android:title="@string/Shfaq_Kontaktet_Regjistruara" />
+
+
+
+</menu>

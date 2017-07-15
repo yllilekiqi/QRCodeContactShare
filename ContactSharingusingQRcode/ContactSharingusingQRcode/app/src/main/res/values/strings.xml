@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Contact Sharing using QRcode</string>
+    <string name="Gjenero_QrKodin">Gjenero QR Kodin</string>
+    <string name="Skano_QrKodin">Skano QR Kodin</string>
+    <string name="Shfaq_Kontaktet_Regjistruara">Kontaktet e Regjistruara</string>
+    <string name="titulli_alertit">Kujdes!</string>
+    <string name="msg">Lejo permission!</string>
+    <string name="title_activity_regjistro_kontaktin">Regjistro kontaktin</string>
+</resources>
